@@ -5,8 +5,8 @@ Supported client commands:
 
 \help  
 \rooms  
-\join <nickname> <room>  
+\join \<nickname\> \<room\>  
 \who  
-<nickname> <message>  
-<block> <nickname>  
+\\<nickname\> \<message\>  
+\\<block> \<nickname\>  
 \leave  
