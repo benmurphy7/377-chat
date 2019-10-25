@@ -8,5 +8,5 @@ Supported client commands:
 \join \<nickname\> \<room\>  
 \who  
 \\<nickname\> \<message\>  
-\\<block> \<nickname\>  
+\\<block\> \<nickname\>  
 \leave  
