@@ -7,6 +7,6 @@ Supported client commands:
 \rooms  
 \join <nickname> <room>  
 \who  
-&lt;\<nickname> <message>  
+\&lt;nickname> <message>  
 \<block> <nickname>  
 \leave  
